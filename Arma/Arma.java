@@ -1,5 +1,5 @@
 public class Arma{
-    int Espada,Machado,Varinha,Carjado,ArcoLongo,Balestra;
+    int Espada,Machado,Varinha,Carjado,ArcoLongo,Balestra; {
     Espada = 1;
     Machado = 2;
     Varinha = 3;
